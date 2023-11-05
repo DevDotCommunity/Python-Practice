@@ -44,6 +44,8 @@ To keep your work organized, we recommend following this file structure when sub
   - ...
 
 
+## Practice Problems
+
 ### Week 1
 
 #### Day 1
