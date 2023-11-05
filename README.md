@@ -1,5 +1,58 @@
 # Python-Practice
 
+## Repository File Structure
+
+The file structure below is designed to help you organize your solutions for the practice questions. Please follow this structure when submitting your solutions.
+
+- **Your_Name/**
+  - **Week_1/**
+    - **Day_1/**
+      - question_1.py
+      - question_2.py
+      - question_3.py
+      - question_4.py
+      - question_5.py
+    - **Day_2/**
+      - question_6.py
+      - question_7.py
+      - question_8.py
+      - question_9.py
+      - question_10.py
+    - **Day_3/**
+      - question_11.py
+      - question_12.py
+      - question_13.py
+      - question_14.py
+      - question_15.py
+    - **Day_4/**
+      - question_16.py
+      - question_17.py
+      - question_18.py
+      - question_19.py
+      - question_20.py
+    - **Day_5/**
+      - question_21.py
+      - question_22.py
+      - question_23.py
+      - question_24.py
+      - question_25.py
+    - **Day_6/**
+      - question_26.py
+      - question_27.py
+      - question_28.py
+      - question_29.py
+      - question_30.py
+    - **Day_7/**
+      - question_31.py
+      - question_32.py
+      - question_33.py
+      - question_34.py
+      - question_35.py
+  - **Week_2/**
+    - ...
+  - ...
+
+
 ### Week 1
 
 #### Day 1
