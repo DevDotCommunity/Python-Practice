@@ -17,6 +17,28 @@ You can use these practice questions to:
 - Develop practical coding skills through real-world examples.
 
 Simply follow the weekly structure, starting with Week 1, and work through the questions day by day. Each question comes with a suggested list of concepts you should be familiar with to tackle the task successfully. If you're just getting started with Python, begin with Week 1 and gradually progress through the weeks.
+## How to Contribute
+
+We welcome contributions to improve this repository and make it a valuable resource for Python learners. Here's how you can contribute:
+
+1. **Fork the Repository:** Click the "Fork" button in the upper right corner of the repository to create your copy.
+
+2. **Create a New Branch:** After forking, create a new branch for your contributions. We recommend naming the branch after your name or the feature you're working on.
+
+   ```bash
+   git checkout -b your-branch-name
+3. **Add Your Code:** Place your Python solution files in your respective day's folder within the "Week_X" directory that you created within your folder name. add your solution.
+
+4. **Push Your Code:** Commit your changes and push the branch to your forked repository.
+   ```bash
+   git add .
+   git commit -m "Add solutions for Week X, Day Y"
+   git push origin your-branch-name
+5. **Create a Pull Request (PR):** Navigate to your forked repository on GitHub and click the "New Pull Request" button. Make sure to set the base branch to the original repository's branch.
+
+6. **Describe Your Changes:** In the PR description, explain the purpose of your changes, mention the questions you've added or modified, and any other relevant information.
+
+7. **Submit the PR:** Submit the pull request, and it will be reviewed by the repository maintainers.
 
 ## Repository File Structure
 
