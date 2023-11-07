@@ -8,10 +8,12 @@
 
 # number = int(input("Enter a number: "))
 # print("The factorial of", number, "is", factorial(number))
+def factorial(n):
+  result = 1
 
-n = int (input ("Enter a number: "))
+  for i in range(1, n + 1):
+    result = result * i  
+  return result
 
-if n >= 1:
-    for i in range (1, n+1):
-
-print("Factorial of the given number is: ", i)
+n = int(input("Enter a number: "))
+print("The factorial of", n, "is", factorial(n))
