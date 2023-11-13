@@ -118,3 +118,55 @@ To keep your work organized, we recommend following this file structure when sub
 33. Write a program to calculate the sum of the digits of a number. (Loops, Basic Arithmetic)
 34. Write a Python program to check if a number is a perfect square. (Math Functions)
 35. Write a program that converts a decimal number to a hexadecimal number. (String Manipulation, Math Functions)
+
+### Week 2
+
+#### Day 1
+1. Write a Python program that finds the length of the longest word in a sentence. (String Manipulation)
+2. Write a program to calculate the sum of all prime numbers up to a given limit. (Loops, Conditional Statements)
+3. Write a Python program to find the intersection of two lists. (Lists, Sets)
+4. Write a program to rotate the elements of a list to the left by a specific number of positions. (Lists)
+5. Write a Python program to calculate the area of a circle. (Variables, Basic Arithmetic)
+
+#### Day 2
+6. Write a program that checks if a string is an anagram of another string. (String Manipulation)
+7. Write a Python program to find the first non-repeating character in a string. (String Manipulation)
+8. Write a program to calculate the sum of squares of natural numbers up to a given limit. (Loops)
+9. Write a Python program to find the union of two sets. (Sets)
+10. Write a program to determine if a given string is a valid palindrome considering only alphanumeric characters and ignoring cases. (String Manipulation)
+
+#### Day 3
+11. Write a Python program to implement binary search on a sorted list. (Lists)
+12. Write a program to find the median of a list of numbers. (Lists, Sorting)
+13. Write a Python program to implement a basic calculator that can perform addition, subtraction, multiplication, and division. (Conditional Statements)
+14. Write a program that removes duplicates from a list without using built-in functions. (Lists)
+15. Write a Python program to find the area of a trapezoid. (Variables, Basic Arithmetic)
+
+#### Day 4
+16. Write a program that counts the occurrences of each word in a sentence. (String Manipulation, Dictionaries)
+17. Write a Python program to find the n-th term in the Fibonacci sequence using recursion. (Recursion)
+18. Write a program to check if a list is sorted in ascending order. (Lists)
+19. Write a Python program to calculate the cube of a number. (Math Functions)
+20. Write a program that calculates the perimeter of a rectangle. (Variables, Basic Arithmetic)
+
+#### Day 5
+21. Write a Python program to find the prime factors of a number. (Loops, Lists)
+22. Write a program to find the mode of a list of numbers. (Lists)
+23. Write a program that validates an email address. (String Manipulation, Regular Expressions)
+24. Write a Python program to implement the Sieve of Eratosthenes algorithm for prime number generation. (Lists)
+25. Write a program that calculates the area of a sector in a circle. (Variables, Basic Arithmetic)
+
+#### Day 6
+26. Write a Python program to reverse the words in a sentence. (String Manipulation)
+27. Write a program that calculates the square of each element in a list. (Lists)
+28. Write a program to find the missing number in a list of integers from 1 to n. (Lists)
+29. Write a Python program to implement a simple stack. (Lists)
+30. Write a program to calculate the surface area of a cube. (Variables, Basic Arithmetic)
+
+#### Day 7
+31. Write a Python program to find the sum of all elements in a 2D list. (Lists)
+32. Write a program to check if a given string is a pangram (contains every letter of the alphabet at least once). (String Manipulation)
+33. Write a program to find the average of a list of numbers. (Lists)
+34. Write a Python program to implement the Newton-Raphson method for finding the square root of a number. (Math Functions)
+35. Write a program that calculates the volume of a rectangular prism. (Variables, Basic Arithmetic)
+
