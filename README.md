@@ -45,25 +45,26 @@ We welcome contributions to improve this repository and make it a valuable resou
 To keep your work organized, we recommend following this file structure when submitting your solutions:
 
 
-- **Your_Name/**
-  - **Week_1/**
-    - **Day_1/**
-      - question_1.py
-      - question_2.py
-      - question_3.py
-      - question_4.py
-      - question_5.py
-    - **Day_2/**
-      - question_6.py
-      - question_7.py
-      - question_8.py
-      - question_9.py
-      - question_10.py
-      ...
-        ....
-  - **Week_2/**
-    - ...
-  - ...
+Your_Name/
+├── Week_1/
+│   ├── Day_1/
+│   │   ├── question_1.py
+│   │   ├── question_2.py
+│   │   ├── question_3.py
+│   │   ├── question_4.py
+│   │   └── question_5.py
+│   ├── Day_2/
+│   │   ├── question_6.py
+│   │   ├── question_7.py
+│   │   ├── question_8.py
+│   │   ├── question_9.py
+│   │   └── question_10.py
+├── Week_2/
+│   ├── ... (other days)
+│   └── ...
+├── ... (other weeks)
+└── ...
+
 
 
 ## Practice Problems
