@@ -44,7 +44,7 @@ We welcome contributions to improve this repository and make it a valuable resou
 
 To keep your work organized, we recommend following this file structure when submitting your solutions:
 
-
+```
 Your_Name/
 ├── Week_1/
 │   ├── Day_1/
@@ -64,7 +64,7 @@ Your_Name/
 │   └── ...
 ├── ... (other weeks)
 └── ...
-
+```
 
 
 ## Practice Problems
