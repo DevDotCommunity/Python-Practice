@@ -171,3 +171,66 @@ Your_Name/
 34. Write a Python program to implement the Newton-Raphson method for finding the square root of a number. (Math Functions)
 35. Write a program that calculates the volume of a rectangular prism. (Variables, Basic Arithmetic)
 
+### Week 3
+
+#### Day 1
+
+1. Write a Python program that finds the maximum element in a list. (Lists)
+2. Implement a function to calculate the factorial of a number using recursion. (Recursion)
+3. Write a program to reverse a list in-place. (Lists)
+4. Implement a function to check if a string is a palindrome ignoring spaces. (String Manipulation)
+5. Write a Python program to count the number of digits in an integer. (Loops, Basic Arithmetic)
+
+#### Day 2
+
+1. Implement a function to check if a number is in a given range. (Conditional Statements)
+2. Write a program to sort a list of integers in ascending order. (Lists, Sorting)
+3. Implement a function to calculate the exponentiation of a number using a loop. (Loops, Basic Arithmetic)
+4. Write a Python program to find the index of an element in a list. (Lists)
+5. Implement a function to calculate the sum of all elements in a list using recursion. (Recursion, Lists)
+
+#### Day 3
+
+1. Write a program to merge two sorted lists into a new sorted list. (Lists, Sorting)
+2. Implement a function to calculate the nth power of a number using the exponentiation operator. (Basic Arithmetic)
+3. Write a Python program to check if a string is a pangram. (String Manipulation)
+4. Implement a function to calculate the average of a list of floating-point numbers. (Lists, Basic Arithmetic)
+5. Write a program to find the maximum and minimum elements in a list simultaneously. (Lists)
+
+#### Day 4
+
+1. Write a Python program to find the factorial of a number using a loop. (Loops)
+2. Implement a function to calculate the sum of natural numbers up to a given limit using the formula. (Math Functions)
+3. Write a program to remove the duplicates from a list without changing the order. (Lists)
+4. Implement a function to calculate the square root of a number using the exponentiation operator. (Math Functions)
+5. Write a Python program to check if a string is a valid identifier. (String Manipulation, Regular Expressions)
+
+#### Day 5
+
+1. Implement a function to calculate the power of a number using recursion. (Recursion)
+2. Write a program to remove the last element from a list. (Lists)
+3. Implement a function to generate a list of n random integers. (Lists)
+4. Write a Python program to find the ASCII value of a character. (String Manipulation)
+5. Implement a function to perform linear search on a list and return the index of the element if found. (Lists)
+
+#### Day 6
+
+1. Write a Python program to sort a list of strings based on their lengths. (Lists, Sorting)
+2. Implement a function to calculate the sum of squares of even numbers up to a given limit. (Loops, Basic Arithmetic)
+3. Write a program to concatenate two lists. (Lists)
+4. Implement a function to calculate the cube root of a number using the exponentiation operator. (Math Functions)
+5. Write a Python program to check if a number is a perfect number. (Math Functions)
+
+#### Day 7
+
+1. Implement a function to generate the multiplication table of a given number. (Loops)
+2. Write a program to find the difference between two lists. (Lists)
+3. Implement a function to calculate the area of a circle using a user-defined function for pi. (Variables, Basic Arithmetic)
+4. Write a Python program to convert a string to title case. (String Manipulation)
+5. Implement a function to perform binary search on a sorted list and return the index of the element if found. (Lists)
+
+
+
+
+
+
